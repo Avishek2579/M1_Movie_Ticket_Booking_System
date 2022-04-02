@@ -1,1 +1,9 @@
-
+#Screenshots
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic1_user-mode.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic2_movie-selection-choice.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic3_User-details.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic4_user-seat-choice-selection.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic5_ticket-bill-details.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic7_movie-ticket-cancellation-choice-screen.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic7_movie-ticket-cancellation-choice-screen.png)
+![screen](https://github.com/Avishek2579/M1_Movie_Ticket_Booking_System/blob/main/6_ImagesAndVideos/pic8_ticket_cancelllation-summary.png)
